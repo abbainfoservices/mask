@@ -1,0 +1,25 @@
+{
+  "source": {
+    "user": "galeva",
+    "password": "password",
+    "host": "localhost",
+    "database": "clientdb",
+    "port": 5432
+  },
+  "target": {
+    "email": "galeva",
+    "password": "Galeva_1",
+    "database": "postgres1"
+  },
+  "operation": "backup",
+  "schema": "public",
+  "create": "yes",
+  "update": "yes",
+  "delete": ["yes","accesstoken of session"],
+  "type": "atomic",
+  "tables": ["users", "cars"],
+  "schedule": {
+    "hh:mm:ss": "",
+    "frequency": ""
+  }
+}

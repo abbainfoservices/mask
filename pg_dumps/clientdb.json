@@ -1,0 +1,16 @@
+                                               json_agg                                               
+------------------------------------------------------------------------------------------------------
+ [{"id":1,"name":"Jerry","email":"jerry@example.com","id":1,"make":"ford","model":"t"},              +
+  {"id":1,"name":"Jerry","email":"jerry@example.com","id":1,"make":"ford","model":"grand marquis"},  +
+  {"id":1,"name":"Jerry","email":"jerry@example.com","id":3,"make":"tesla","model":"s"},             +
+  {"id":1,"name":"Jerry","email":"jerry@example.com","id":4,"make":"honda","model":"accord"},        +
+  {"id":3,"name":"Jerry","email":"jerry@example.com","id":1,"make":"ford","model":"t"},              +
+  {"id":3,"name":"Jerry","email":"jerry@example.com","id":1,"make":"ford","model":"grand marquis"},  +
+  {"id":3,"name":"Jerry","email":"jerry@example.com","id":3,"make":"tesla","model":"s"},             +
+  {"id":3,"name":"Jerry","email":"jerry@example.com","id":4,"make":"honda","model":"accord"},        +
+  {"id":2,"name":"Peter","email":"george@example.com","id":1,"make":"ford","model":"t"},             +
+  {"id":2,"name":"Peter","email":"george@example.com","id":1,"make":"ford","model":"grand marquis"}, +
+  {"id":2,"name":"Peter","email":"george@example.com","id":3,"make":"tesla","model":"s"},            +
+  {"id":2,"name":"Peter","email":"george@example.com","id":4,"make":"honda","model":"accord"}]
+(1 row)
+

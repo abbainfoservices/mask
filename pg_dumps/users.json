@@ -1,0 +1,16 @@
+[{"id":1,"name":"Jerry","email":"jerry@example.com"},{"id":3,"name":"Jerry","email":"jerry@example.com"},{"id":2,"name":"Peter","email":"george@example.com"}]
+public|cars|table|galeva
+public|users|table|galeva
+public|cars|table|galeva
+public|users|table|galeva
+public|users_id_seq|sequence|galeva
+public|cars|table|galeva
+public|users|table|galeva
+public|users_id_seq|sequence|galeva
+public|cars|table|galeva
+public|users|table|galeva
+public|users_id_seq|sequence|galeva
+1|ford|t
+1|ford|grand marquis
+3|tesla|s
+4|honda|accord

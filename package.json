@@ -1,0 +1,13 @@
+{
+  "name": "backup-app",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "Peter Joy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
